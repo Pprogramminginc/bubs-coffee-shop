@@ -1,3 +1,9 @@
+## 📸 Preview
+
+![Hero](./hero.png)
+![Menu](./menu.png)
+![Dog Menu](./dogmenu.png)
+![Full Page](./fullpage.png)
 # Bub's Coffee Shop ☕
 
 A premium, cozy café landing page designed as a modern front-end portfolio project.
